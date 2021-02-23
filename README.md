@@ -1,12 +1,16 @@
-# Welcome to Defold
+# Protean Cloud Shader
 
-This project was created from the "empty" project template.
+This project is a port of [Protean Clouds]("https://www.shadertoy.com/view/3l23Rh) by the creator `nimitz` into Defold. It is a purely procedural shader that procedurally generates clouds.
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+### LEGAL
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+All rights belong to the original creator of the shader. Here are the licensing details mentioned :
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
+> Protean clouds by nimitz (twitter: @stormoid)
+> <https://www.shadertoy.com/view/3l23Rh>
+
+> License Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+> Contact the author for other licensing options
 
 Happy Defolding!
 
